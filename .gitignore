@@ -16,3 +16,4 @@ mlruns/
 .env.*
 !.env.example
 .DS_Store
+Data/Raw/bank_churn.csv
